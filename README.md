@@ -5,6 +5,12 @@
 - Luiz Otavio Machado Seles
 - Naum Calebe Felix Sarti
 
+---
+
+A base de dados encontra-se [aqui](https://www.kaggle.com/datasets/artermiloff/steam-games-dataset) ou na aba 'Releases' deste repositório.
+
+---
+
 ## Sobre o Projeto
 Este projeto apresenta uma pesquisa de mercado focada no desenvolvimento e desempenho de jogos na plataforma Steam. O objetivo principal é segmentar o mercado e identificar padrões de sucesso. A análise utiliza técnicas de **agrupamento (*clustering*)** para traçar perfis comerciais dos jogos e **regras de associação** para entender como a identidade técnica (gêneros e *tags*) impacta as avaliações, retenção e vendas.
 
